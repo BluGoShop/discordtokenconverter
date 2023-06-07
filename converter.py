@@ -12,7 +12,7 @@ print("If you have any questions, feel free to message me on Telegram @blugoshop
 
 
 # Generate the ASCII art
-ascii_art = pyfiglet.figlet_format("BluGo Token Cut")
+ascii_art = pyfiglet.figlet_format("BluGo Token Converter")
 print(Fore.BLUE + ascii_art + Style.RESET_ALL)
 
 # Open the tokens file
